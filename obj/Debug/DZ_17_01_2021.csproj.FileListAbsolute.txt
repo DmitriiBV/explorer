@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\bin\Debug\DZ_17_01_2021.exe.config
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\bin\Debug\DZ_17_01_2021.exe
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\bin\Debug\DZ_17_01_2021.pdb
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\obj\Debug\DZ_17_01_2021.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\obj\Debug\DZ_17_01_2021.Form1.resources
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\obj\Debug\DZ_17_01_2021.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\obj\Debug\DZ_17_01_2021.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\obj\Debug\DZ_17_01_2021.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\obj\Debug\DZ_17_01_2021.exe
+C:\Users\Дмитрий\source\repos\DZ_17_01_2021\obj\Debug\DZ_17_01_2021.pdb
